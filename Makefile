@@ -66,10 +66,6 @@ MAKE_DIR :=		@tput bold && tput -Txterm setaf 6 && echo -n "Created   " && tput 
 # Phony rules
 ###############################################################################
 
-defualt: inheritance_in_c
-	./bin/inheritance_in_c
-
-
 .PHONY: all
 all: ##@options Build everything
 all: static_linked_list inheritance_in_c bubble_sort
