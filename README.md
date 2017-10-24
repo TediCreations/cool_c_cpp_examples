@@ -7,7 +7,7 @@
 | Name (Make target) | Language | Description                                                                                               |
 |--------------------|----------|---------------------------------------------------------|
 | static_linked_list | C        | Linked list with static memory allocation               |
-| inheritance-in-C   | C        | Implements inheritance with a primitive way in C!!! [1] |
+| inheritance_in_c   | C        | Implements inheritance with a primitive way in C!!! [1] |
 | bubble_sort        | C        | Classic bubble sort algorithm                           |
 
 [1] Needs the -fms-extensions or -std=c11 compiler flag enabled. This permits the use of anonymous struct members.
