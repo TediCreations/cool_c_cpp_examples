@@ -1,0 +1,17 @@
+# Executables
+*.elf
+*.exe
+*.bin
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Auto-generated files
+inc/version.h
+
+# Folders
+bin
+doc
+obj
